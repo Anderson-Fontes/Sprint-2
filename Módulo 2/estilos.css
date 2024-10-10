@@ -1,0 +1,36 @@
+#um {
+    position: absolute;
+    width: 1000px;
+    height: 750px;
+    display: flex;
+    align-content:center;
+    justify-content: space-around;
+
+    padding: 40px;
+     
+    margin-top: 10%;
+    margin-bottom: 30%;
+    margin-right: 5%;
+    margin-left: 35%;
+    background: #A7D4FF;
+     
+    border: 1px solid #000000;
+    border-radius: 10px;
+
+     
+    }
+     
+    #dois {
+        background-color:royalblue;
+        margin-top: 1650%;
+       border: 1px solid black;
+    }
+     #modulo2{
+        font-size:xx-large;
+     }
+     .texto{
+        font-size: x-large;
+     }
+     .subtitulo{
+        font-size: xx-large;
+     }
